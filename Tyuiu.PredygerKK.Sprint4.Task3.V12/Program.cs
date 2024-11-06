@@ -11,7 +11,7 @@ namespace Tyuiu.PredygerKK.Sprint4.Task3.V12
             Console.Title = "Спринт #4 | Выполнил: Предыгер К.К. | ПКТб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Одномерные массивы. (генератор случайных чисел)                   *");
+            Console.WriteLine("* Тема: Двумерные массивы. (статический ввод)                             *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #12                                                             *");
             Console.WriteLine("* Выполнил: Предыгер Кирилл Константинович | ПКТб-24-1                    *");
