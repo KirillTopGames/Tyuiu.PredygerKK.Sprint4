@@ -19,7 +19,7 @@ namespace Tyuiu.PredygerKK.Sprint4.Task6.V11
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дан строковый массив данных [\"Кошка\", \"Собака\", \"Слон\", \"Жираф\",*");
             Console.WriteLine("*  \"Бегемот\", \"Игуана\", \"Ягуар\"] используя класс Array подсчитайте  *");
-            Console.WriteLine("* количество элементов, длина которых равна 5.                             *");
+            Console.WriteLine("* количество элементов, длина которых равна 5.                            *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
